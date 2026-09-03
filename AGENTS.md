@@ -500,7 +500,7 @@ TCP 443     REALITY
 UDP 24443   HY2
 ```
 
-A HY2 + WARP + fixed-SOCKS Profile D does not need REALITY TCP 443 unless REALITY is actually enabled.
+An HY2 + WARP + fixed-SOCKS Profile D does not need REALITY TCP 443 unless REALITY is actually enabled.
 
 Preserve SSH access before firewall changes. Remember provider-side security groups may exist independently of host firewall.
 
